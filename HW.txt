@@ -1,7 +1,0 @@
-Hello World
-
-This is a wonderful text document.
-
-
-I fixed it!
-
